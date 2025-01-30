@@ -4,7 +4,8 @@ public class IntegerCalc {
         // initial values of 11 and 5.
         int num1 = 11;
         int num2 = 5;
-
+            System.out.println(num2 * num1);
+        }
 
     }
-}
+
